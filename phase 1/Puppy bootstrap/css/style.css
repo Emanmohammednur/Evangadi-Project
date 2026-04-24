@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+img {
+  width: 100%;
+}
+.blueBg {
+  background-color: #085070;
+  color: white;
+}
+.missing {
+  background-color: tomato;
+}
+@media (min-width: 992px) {
+  .missing span {
+    display: block;
+    font-size: 35px;
+    line-height: 50px;
+    
+  }
+  footer p{
+    font-size: 35px;
+  }
+}
