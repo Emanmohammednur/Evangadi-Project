@@ -18,6 +18,7 @@
   width: 90%;
   max-width: 308px;
   object-fit: cover;
+  margin-bottom: 2%;
 }
 .image2 {
   background-image: url(image/puppy-2.jpg);
